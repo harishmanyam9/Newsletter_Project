@@ -26,3 +26,11 @@ signature: The name of the person who sent the announcement.
 category: The category that the announcement belongs to.
 
 submission time: Submission Time of the article.
+
+
+# Medium Blog Link:
+
+https://medium.com/@harishreddy9495/analyzing-school-announcements-categorization-and-frequency-prediction-3879bbcef7d3
+
+
+Any feedback is appreciated to hmanyam1@umbc.edu
